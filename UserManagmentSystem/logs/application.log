@@ -1,0 +1,23 @@
+2024-08-05 16:31:30 INFO  UserDao:16 - PostgreSQL JDBC Driver loaded successfully.
+2024-08-05 16:31:30 DEBUG UserServlet:31 - Received request for action: /
+2024-08-05 16:31:30 DEBUG UserDao:112 - Retrieved all users: 5
+2024-08-05 16:31:30 DEBUG UserServlet:106 - Listing users: 5
+2024-08-05 16:31:33 DEBUG UserServlet:31 - Received request for action: /
+2024-08-05 16:31:33 DEBUG UserDao:112 - Retrieved all users: 5
+2024-08-05 16:31:33 DEBUG UserServlet:106 - Listing users: 5
+2024-08-05 16:32:13 DEBUG UserServlet:31 - Received request for action: /new
+2024-08-05 16:32:13 DEBUG UserServlet:112 - Showing new user form
+2024-08-05 16:32:18 DEBUG UserServlet:31 - Received request for action: /list
+2024-08-05 16:32:18 DEBUG UserDao:112 - Retrieved all users: 5
+2024-08-05 16:32:18 DEBUG UserServlet:106 - Listing users: 5
+2024-08-05 16:32:24 DEBUG UserServlet:31 - Received request for action: /edit
+2024-08-05 16:32:24 DEBUG UserDao:88 - Found user by ID: 7
+2024-08-05 16:32:24 DEBUG UserServlet:86 - Showing edit form for user: com.mulk.usermanagmentsystem.Model.User@7c242f47
+2024-08-05 16:32:32 DEBUG UserServlet:31 - Received request for action: /update
+2024-08-05 16:32:32 DEBUG UserDao:63 - Updated user: com.mulk.usermanagmentsystem.Model.User@3226b992
+2024-08-05 16:32:32 INFO  UserServlet:98 - Updated user: com.mulk.usermanagmentsystem.Model.User@3226b992
+2024-08-05 16:32:32 DEBUG UserServlet:31 - Received request for action: /list
+2024-08-05 16:32:32 DEBUG UserDao:112 - Retrieved all users: 5
+2024-08-05 16:32:32 DEBUG UserServlet:106 - Listing users: 5
+2024-08-05 16:35:10 DEBUG UserServlet:31 - Received request for action: /new
+2024-08-05 16:35:10 DEBUG UserServlet:112 - Showing new user form

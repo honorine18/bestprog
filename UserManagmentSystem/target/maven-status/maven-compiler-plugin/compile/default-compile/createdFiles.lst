@@ -1,0 +1,3 @@
+com\mulk\usermanagmentsystem\Dao\UserDao.class
+com\mulk\usermanagmentsystem\Web\UserServlet.class
+com\mulk\usermanagmentsystem\Model\User.class
